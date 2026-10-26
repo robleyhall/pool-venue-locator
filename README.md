@@ -1,7 +1,7 @@
 # Pool Venue Locator
 
 An evidence-backed pool venue directory with Google Earth and Google My Maps
-KML exports. Includes 74 venues across ten US markets, with room roles,
+KML exports. Includes 73 venues across ten US markets, with room roles,
 table-size notes, addresses, source links and review dates.
 
 ## Use the maps
@@ -11,7 +11,7 @@ Download [all destinations](maps/all-destinations-pool-venues.kml), or choose a 
 | Market | Venues | Date refreshed | KML |
 |---|---:|---|---|
 | Austin / Round Rock / Cedar Park | 12 | 2026-10-24 | [Austin](maps/austin-pool-venues.kml) |
-| Las Vegas | 7 | 2026-10-26 | [Las Vegas](maps/las-vegas-pool-venues.kml) |
+| Las Vegas | 6 | 2026-10-26 | [Las Vegas](maps/las-vegas-pool-venues.kml) |
 | Phoenix | 8 | 2026-08-18 | [Phoenix](maps/phoenix-pool-venues.kml) |
 | Tucson | 4 | 2026-08-18 | [Tucson](maps/tucson-pool-venues.kml) |
 | Dallas–Fort Worth | 8 | 2026-08-18 | [DFW](maps/dallas-fort-worth-pool-venues.kml) |

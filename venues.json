@@ -793,19 +793,6 @@
   },
   {
     "market": "las-vegas",
-    "name": "Griff's Billiards",
-    "address": "Las Vegas, NV",
-    "lon": -115.2073712,
-    "lat": 36.1237413,
-    "type": "lead",
-    "note": "Reported by a local observer as a route/departure reference in Green Valley/Henderson; no venue assessment captured. Exact address, equipment and schedule require verification.",
-    "url": "https://www.griffsbilliards.com/",
-    "reviewed": "2026-10-26",
-    "coordinate_source": "ArcGIS World Geocoder, POI match, 2026-10-26",
-    "coordinate_note": "Point-of-interest location; verify exact address on site."
-  },
-  {
-    "market": "las-vegas",
     "name": "El Cortez billiards",
     "address": "2880 Las Vegas Blvd S, Las Vegas, NV 89109",
     "lon": -115.1672584,
