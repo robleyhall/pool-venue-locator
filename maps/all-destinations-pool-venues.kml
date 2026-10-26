@@ -171,7 +171,7 @@
   </Folder>
   <Folder>
     <name>Las Vegas</name>
-    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Griff&#x27;s Bar &amp; Billiards</name>
       <styleUrl>#serious</styleUrl>
@@ -226,6 +226,28 @@
         <Data name="address"><value>3000 Paradise Rd, Las Vegas, NV</value></Data>
       </ExtendedData>
       <Point><coordinates>-115.1513429,36.1356551,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Griff&#x27;s Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> Las Vegas, NV<br/><br/>Trip route/departure reference from Green Valley/Henderson; field notes contain no venue assessment. Exact address, equipment and schedule require verification.<br/><br/><a href="https://www.griffsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, POI match, 2026-10-26. Point-of-interest location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.2073712,36.1237413,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Cortez billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2880 Las Vegas Blvd S, Las Vegas, NV 89109<br/><br/>Trip mention only; no venue assessment captured in field notes. Equipment and operating status require verification.<br/><br/><a href="https://www.elcortezlv.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2880 Las Vegas Blvd S, Las Vegas, NV 89109</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1672584,36.1378451,0</coordinates></Point>
     </Placemark>
   </Folder>
   <Folder>
@@ -745,6 +767,135 @@
         <Data name="address"><value>777 Casino Dr, Cherokee, NC</value></Data>
       </ExtendedData>
       <Point><coordinates>-83.2991547,35.4687855,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Colorado (Front Range trip)</name>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
+    <Placemark>
+      <name>Wreck Room Underground</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 9975 Wadsworth Pkwy, Westminster, CO 80021<br/><br/>Trip visit: 32 tables including nine 12-foot tables, bar, good food, billiard hall vibe; $10/hour, $5 after 5pm Sundays. Sunday deal requires current confirmation.<br/><br/><a href="https://wreckroomunderground.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>9975 Wadsworth Pkwy, Westminster, CO 80021</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.0960882,39.8760184,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoosters Pub and Pool Hall</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 300 Nickel Ln, Broomfield, CO 80020<br/><br/>Trip visit: eight to ten decent tables, good layout, no smoking, good beer selection, $4/hour; casual but solid league base.<br/><br/><a href="https://www.zoosters.net/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>300 Nickel Ln, Broomfield, CO 80020</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.0869843,39.9206565,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pharaoh&#x27;s American Grill &amp; Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 380 Main St, Longmont, CO 80501<br/><br/>Trip visit: thirty-plus tables, casual room, $1/hour weekday before 5pm, $4/hour after 5pm and weekends; hourly rate requires current confirmation. Trip diary also records an older Pharaoh&#x27;s location at 10001 Pharo Chase Way, Longmont.<br/><br/><a href="https://pharaohsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>380 Main St, Longmont, CO 80501</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.1021223,40.1654869,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Crooked Cue</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 112 N Tejon St Suite 100, Colorado Springs, CO 80903<br/><br/>Trip visit: about twenty tables, good room, nice beer selection, $6/hour; all ages until 9pm.<br/><br/><a href="https://crookedcuelounge.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>112 N Tejon St Suite 100, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8238875,38.8358945,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Public House</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 445 E Cheyenne Mountain Blvd, Colorado Springs, CO 80903<br/><br/>The trip diary&#x27;s &#x27;Kingspose Way&#x27; entry (approximate highway-block location) most closely matches this venue; same-night diary mentions a venue near Pikes Peak Avenue (likely Crooked Cue). Identity requires confirmation before use.<br/><br/><a href="https://www.pooltrips.com/us/co/colorado-springs/the-public-house">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Highway-block centroid; the diary street name &#x27;Kingspose Way&#x27; does not exist in public gazetteers and could not be resolved. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>445 E Cheyenne Mountain Blvd, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8204139,38.7881569,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mr. Billiard&#x27;s Pool Hall</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 1124 W Colorado Ave, Colorado Springs, CO 80904<br/><br/>Old Colorado City room lead (former Nova West site); operating status, equipment and schedule require verification.<br/><br/><a href="https://cuesportsusa.com/billiard-clubs-and-pool-halls/colorado">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>1124 W Colorado Ave, Colorado Springs, CO 80904</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8436581,38.8364188,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bijou Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2510 E Bijou St, Colorado Springs, CO 80909<br/><br/>Colorado Springs room lead; table count, equipment and league schedule require verification.<br/><br/><a href="https://bijoubilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2510 E Bijou St, Colorado Springs, CO 80909</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.7841277,38.8359471,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 923 N Murray Blvd, Colorado Springs, CO 80915<br/><br/>Colorado Springs room lead; operating status, equipment and schedule require verification.<br/><br/><a href="https://kingsbilliards.co/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>923 N Murray Blvd, Colorado Springs, CO 80915</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.7471752,38.8463676,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Phantom Canyon Billiards Hall</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2 E Pikes Peak Ave, Colorado Springs, CO 80903<br/><br/>Billiards hall inside Phantom Canyon Brewing Co., downtown Colorado Springs; public table availability and schedule require verification.<br/><br/><a href="https://phantomcanyon.com/east-billiards-hall/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2 E Pikes Peak Ave, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8249232,38.8342392,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Taos, New Mexico</name>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
+    <Placemark>
+      <name>The Alley Cantina</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 121 Teresina Ln, Taos, NM 87571<br/><br/>Trip visit: small one-table bar; strongest social pool experience of the trip. Not a serious room; retained as a context anchor.<br/><br/><a href="https://www.alleycantinataos.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Taos, New Mexico</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>121 Teresina Ln, Taos, NM 87571</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.5747519,36.4079724,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Unresolved Carroll Street venue</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> E Carroll St, Taos, NM 87571<br/><br/>Trip diary records pool at 920 E Carroll St in Taos; no business at that address is confirmed in public sources. Approximate street location; requires local verification.<br/><br/><a href="https://www.openstreetmap.org/search?query=Carroll%20Street%2C%20Taos%2C%20NM">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Street-name centroid; house number 920 not confirmed by any gazetteer. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Taos, New Mexico</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>E Carroll St, Taos, NM 87571</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.3839559,36.3607536,0</coordinates></Point>
     </Placemark>
   </Folder>
 

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Taos, New Mexico Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Date refreshed is shown in each market folder; venue popups include sources, review dates and equipment notes.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Taos, New Mexico</name>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
+    <Placemark>
+      <name>The Alley Cantina</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 121 Teresina Ln, Taos, NM 87571<br/><br/>Trip visit: small one-table bar; strongest social pool experience of the trip. Not a serious room; retained as a context anchor.<br/><br/><a href="https://www.alleycantinataos.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Taos, New Mexico</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>121 Teresina Ln, Taos, NM 87571</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.5747519,36.4079724,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Unresolved Carroll Street venue</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> E Carroll St, Taos, NM 87571<br/><br/>Trip diary records pool at 920 E Carroll St in Taos; no business at that address is confirmed in public sources. Approximate street location; requires local verification.<br/><br/><a href="https://www.openstreetmap.org/search?query=Carroll%20Street%2C%20Taos%2C%20NM">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Street-name centroid; house number 920 not confirmed by any gazetteer. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Taos, New Mexico</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>E Carroll St, Taos, NM 87571</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.3839559,36.3607536,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

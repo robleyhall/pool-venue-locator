@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Colorado (Front Range trip) Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Date refreshed is shown in each market folder; venue popups include sources, review dates and equipment notes.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Colorado (Front Range trip)</name>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
+    <Placemark>
+      <name>Wreck Room Underground</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 9975 Wadsworth Pkwy, Westminster, CO 80021<br/><br/>Trip visit: 32 tables including nine 12-foot tables, bar, good food, billiard hall vibe; $10/hour, $5 after 5pm Sundays. Sunday deal requires current confirmation.<br/><br/><a href="https://wreckroomunderground.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>9975 Wadsworth Pkwy, Westminster, CO 80021</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.0960882,39.8760184,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoosters Pub and Pool Hall</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 300 Nickel Ln, Broomfield, CO 80020<br/><br/>Trip visit: eight to ten decent tables, good layout, no smoking, good beer selection, $4/hour; casual but solid league base.<br/><br/><a href="https://www.zoosters.net/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>300 Nickel Ln, Broomfield, CO 80020</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.0869843,39.9206565,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pharaoh&#x27;s American Grill &amp; Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 380 Main St, Longmont, CO 80501<br/><br/>Trip visit: thirty-plus tables, casual room, $1/hour weekday before 5pm, $4/hour after 5pm and weekends; hourly rate requires current confirmation. Trip diary also records an older Pharaoh&#x27;s location at 10001 Pharo Chase Way, Longmont.<br/><br/><a href="https://pharaohsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>380 Main St, Longmont, CO 80501</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-105.1021223,40.1654869,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Crooked Cue</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 112 N Tejon St Suite 100, Colorado Springs, CO 80903<br/><br/>Trip visit: about twenty tables, good room, nice beer selection, $6/hour; all ages until 9pm.<br/><br/><a href="https://crookedcuelounge.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>112 N Tejon St Suite 100, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8238875,38.8358945,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Public House</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 445 E Cheyenne Mountain Blvd, Colorado Springs, CO 80903<br/><br/>The trip diary&#x27;s &#x27;Kingspose Way&#x27; entry (approximate highway-block location) most closely matches this venue; same-night diary mentions a venue near Pikes Peak Avenue (likely Crooked Cue). Identity requires confirmation before use.<br/><br/><a href="https://www.pooltrips.com/us/co/colorado-springs/the-public-house">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Highway-block centroid; the diary street name &#x27;Kingspose Way&#x27; does not exist in public gazetteers and could not be resolved. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>445 E Cheyenne Mountain Blvd, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8204139,38.7881569,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mr. Billiard&#x27;s Pool Hall</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 1124 W Colorado Ave, Colorado Springs, CO 80904<br/><br/>Old Colorado City room lead (former Nova West site); operating status, equipment and schedule require verification.<br/><br/><a href="https://cuesportsusa.com/billiard-clubs-and-pool-halls/colorado">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>1124 W Colorado Ave, Colorado Springs, CO 80904</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8436581,38.8364188,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bijou Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2510 E Bijou St, Colorado Springs, CO 80909<br/><br/>Colorado Springs room lead; table count, equipment and league schedule require verification.<br/><br/><a href="https://bijoubilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2510 E Bijou St, Colorado Springs, CO 80909</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.7841277,38.8359471,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 923 N Murray Blvd, Colorado Springs, CO 80915<br/><br/>Colorado Springs room lead; operating status, equipment and schedule require verification.<br/><br/><a href="https://kingsbilliards.co/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>923 N Murray Blvd, Colorado Springs, CO 80915</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.7471752,38.8463676,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Phantom Canyon Billiards Hall</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2 E Pikes Peak Ave, Colorado Springs, CO 80903<br/><br/>Billiards hall inside Phantom Canyon Brewing Co., downtown Colorado Springs; public table availability and schedule require verification.<br/><br/><a href="https://phantomcanyon.com/east-billiards-hall/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Colorado (Front Range trip)</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2 E Pikes Peak Ave, Colorado Springs, CO 80903</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-104.8249232,38.8342392,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

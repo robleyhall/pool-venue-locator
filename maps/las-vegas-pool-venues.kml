@@ -35,7 +35,7 @@
   </Style>
   <Folder>
     <name>Las Vegas</name>
-    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Griff&#x27;s Bar &amp; Billiards</name>
       <styleUrl>#serious</styleUrl>
@@ -90,6 +90,28 @@
         <Data name="address"><value>3000 Paradise Rd, Las Vegas, NV</value></Data>
       </ExtendedData>
       <Point><coordinates>-115.1513429,36.1356551,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Griff&#x27;s Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> Las Vegas, NV<br/><br/>Trip route/departure reference from Green Valley/Henderson; field notes contain no venue assessment. Exact address, equipment and schedule require verification.<br/><br/><a href="https://www.griffsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, POI match, 2026-10-26. Point-of-interest location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.2073712,36.1237413,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Cortez billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2880 Las Vegas Blvd S, Las Vegas, NV 89109<br/><br/>Trip mention only; no venue assessment captured in field notes. Equipment and operating status require verification.<br/><br/><a href="https://www.elcortezlv.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>2880 Las Vegas Blvd S, Las Vegas, NV 89109</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1672584,36.1378451,0</coordinates></Point>
     </Placemark>
   </Folder>
 

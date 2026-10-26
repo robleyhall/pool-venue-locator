@@ -21,6 +21,8 @@ MARKETS = {
     "southern-new-hampshire": "Southern New Hampshire / Regional Reach",
     "orlando": "Orlando",
     "knoxville-east-tennessee": "Knoxville / East Tennessee",
+    "colorado": "Colorado (Front Range trip)",
+    "taos": "Taos, New Mexico",
 }
 
 STYLES = {
