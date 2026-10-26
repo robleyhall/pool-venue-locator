@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>All Destination Pool Venues</name>
-  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Date refreshed is shown in each market folder; venue popups include sources, review dates and equipment notes.</description>
   <Style id="serious">
     <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
       <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
@@ -35,6 +35,7 @@
   </Style>
   <Folder>
     <name>Austin / Round Rock / Cedar Park</name>
+    <description>Date refreshed: 2026-10-24. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Skinny Bob&#x27;s Billiards</name>
       <styleUrl>#serious</styleUrl>
@@ -170,6 +171,7 @@
   </Folder>
   <Folder>
     <name>Las Vegas</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Griff&#x27;s Bar &amp; Billiards</name>
       <styleUrl>#serious</styleUrl>
@@ -228,6 +230,7 @@
   </Folder>
   <Folder>
     <name>Phoenix</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Bull Shooters</name>
       <styleUrl>#serious</styleUrl>
@@ -319,6 +322,7 @@
   </Folder>
   <Folder>
     <name>Tucson</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Pockets Pool &amp; Pub</name>
       <styleUrl>#serious</styleUrl>
@@ -366,6 +370,7 @@
   </Folder>
   <Folder>
     <name>Dallas–Fort Worth</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Stixx &amp; Stones</name>
       <styleUrl>#serious</styleUrl>
@@ -457,6 +462,29 @@
   </Folder>
   <Folder>
     <name>Southern New Hampshire / Regional Reach</name>
+    <description>Date refreshed: 2026-10-26. Individual venue review dates are shown in popups.</description>
+    <Placemark>
+      <name>Legends Billiards &amp; Tavern / Legends Barbecue</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 80 Hanover St, Portsmouth, NH 03801<br/><br/>Official venue inventory: twelve nine-foot pool tables. Portsmouth / Seacoast anchor. League nights mentioned, but current operator, format and schedule not verified.<br/><br/><a href="https://legendsportsmouth.com/billiards/">Primary source / lead</a><br/>Reviewed 2026-10-26. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>80 Hanover St, Portsmouth, NH 03801</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-70.759493176586,43.077656542503,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Forest City Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 272 Saint John St, Portland, ME 04102<br/><br/>Official venue inventory: 23 Gabriels Sentinel pool tables plus a twelve-foot Riley snooker table; full pool-table size breakdown unspecified. JPNEWT lists Queen of the Slate on November 7-8, 2026, with nine-ball on nine-foot tables (https://www.jpnewt.com/2026-dates). Portland, Maine regional anchor; confirm event schedule and public table availability.<br/><br/><a href="https://forestcitybilliards.com/">Primary source / lead</a><br/>Reviewed 2026-10-26. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>272 Saint John St, Portland, ME 04102</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-70.279454386654,43.65266873355,0</coordinates></Point>
+    </Placemark>
     <Placemark>
       <name>The Billiards Cafe</name>
       <styleUrl>#serious</styleUrl>
@@ -537,6 +565,7 @@
   </Folder>
   <Folder>
     <name>Orlando</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Cue-Phoria Billiards</name>
       <styleUrl>#serious</styleUrl>
@@ -606,6 +635,7 @@
   </Folder>
   <Folder>
     <name>Knoxville / East Tennessee</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Peyton&#x27;s Place</name>
       <styleUrl>#serious</styleUrl>

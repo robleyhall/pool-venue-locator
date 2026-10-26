@@ -69,12 +69,17 @@ def placemark(v: dict) -> str:
     </Placemark>"""
 
 
+def market_refreshed(key: str) -> str:
+    """Latest evidence update in a market, not a full-market recheck."""
+    return max(v.get("reviewed", "2026-08-18") for v in VENUES if v["market"] == key)
+
+
 def document(name: str, folders: list[str]) -> str:
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>{html.escape(name)}</name>
-  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Date refreshed is shown in each market folder; venue popups include sources, review dates and equipment notes.</description>
 {style_xml()}
 {''.join(folders)}
 </Document>
@@ -86,6 +91,7 @@ def folder(key: str, venues: list[dict]) -> str:
     body = "\n".join(placemark(v) for v in venues)
     return f"""  <Folder>
     <name>{html.escape(MARKETS[key])}</name>
+    <description>Date refreshed: {market_refreshed(key)}. Individual venue review dates are shown in popups.</description>
 {body}
   </Folder>
 """

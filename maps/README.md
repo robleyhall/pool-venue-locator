@@ -1,8 +1,9 @@
 # Pool Venue KML Maps
 
-Generated from `../venues.json` by `../generate_kml.py`. Austin added October
-24, 2026; other markets retain August 18, 2026 evidence dates. Review dates
-are shown per placemark. All nine files use the same legend:
+Generated from `../venues.json` by `../generate_kml.py`. See the
+[market list and refresh dates](../README.md#use-the-maps). Each market folder
+shows its latest refresh date; review dates are shown per placemark.
+All nine files use the same legend:
 
 - **green:** verified serious room / anchor;
 - **orange:** league or supporting room;
@@ -15,6 +16,9 @@ reverify time-sensitive schedules. A coordinate locates the venue; it does not
 verify that the venue is currently open.
 
 ## Files
+
+See [How to load the maps into Google Earth](../docs/GOOGLE_EARTH.md) for
+download, import and saving instructions for Google Earth web and Earth Pro.
 
 - `austin-pool-venues.kml` — 12 venues; see [Austin evidence and coordinate notes](../docs/DATA.md)
 - `las-vegas-pool-venues.kml`

@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>Las Vegas Pool Venues</name>
-  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Date refreshed is shown in each market folder; venue popups include sources, review dates and equipment notes.</description>
   <Style id="serious">
     <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
       <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
@@ -35,6 +35,7 @@
   </Style>
   <Folder>
     <name>Las Vegas</name>
+    <description>Date refreshed: 2026-08-18. Individual venue review dates are shown in popups.</description>
     <Placemark>
       <name>Griff&#x27;s Bar &amp; Billiards</name>
       <styleUrl>#serious</styleUrl>
