@@ -782,14 +782,14 @@
     "market": "taos",
     "name": "The Alley Cantina",
     "address": "121 Teresina Ln, Taos, NM 87571",
-    "lon": -105.5747519,
-    "lat": 36.4079724,
-    "type": "lead",
-    "note": "small one-table bar; noted by a local observer as a strong social pool spot. Not a serious room; retained as a context anchor.",
+    "lon": -105.574724,
+    "lat": 36.407988,
+    "type": "support",
+    "note": "verified play: one basic bar-height table; casual social spot, not a serious room.",
     "url": "https://www.alleycantinataos.com/",
     "reviewed": "2026-10-26",
-    "coordinate_source": "ArcGIS World Geocoder, street-address match, 2026-10-26",
-    "coordinate_note": "Approximate interpolated street-address location; not a verified building entrance."
+    "coordinate_source": "OpenStreetMap POI (The Alley Cantina, 121 Teresina Lane), 2026-10-26",
+    "coordinate_note": "Named POI match; not a verified building entrance."
   },
   {
     "market": "las-vegas",
