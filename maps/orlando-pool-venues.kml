@@ -39,7 +39,7 @@
     <Placemark>
       <name>Cue-Phoria Billiards</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1810 FL-436 #132, Winter Park, FL<br/><br/>Official: fourteen professional Diamond tables and non-smoking; sizes omitted. AZBilliards lead says only two are 9-foot.<br/><br/><a href="https://www.cue-phoria-billiards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1810 FL-436 #132, Winter Park, FL<br/><br/>Official: fourteen professional Diamond tables and non-smoking; sizes omitted. AZBilliards lead says only two are 9-foot.<br/><br/><a href="https://www.cue-phoria-billiards.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -50,7 +50,7 @@
     <Placemark>
       <name>Racks Casselberry</name>
       <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 1455 N Semoran Blvd #291, Casselberry, FL<br/><br/>Former Clicks address under Racks name; reopening/status and inherited league schedules require same-week confirmation.<br/><br/><a href="https://www.racksbilliards.com/contact">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 1455 N Semoran Blvd #291, Casselberry, FL<br/><br/>Former Clicks address under Racks name; reopening/status and inherited league schedules require same-week confirmation.<br/><br/><a href="https://www.racksbilliards.com/contact">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>lead</value></Data>
@@ -61,7 +61,7 @@
     <Placemark>
       <name>Racks Sanford</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 312 N Entrance Rd, Sanford, FL<br/><br/>Official 9-foot and 7-foot Diamonds; AZBilliards lead reports eight 9-foot tables and action, count unverified.<br/><br/><a href="https://www.racksbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 312 N Entrance Rd, Sanford, FL<br/><br/>Official 9-foot and 7-foot Diamonds; AZBilliards lead reports eight 9-foot tables and action, count unverified.<br/><br/><a href="https://www.racksbilliards.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -72,7 +72,7 @@
     <Placemark>
       <name>Trick Shots Winter Park</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7644 University Blvd, Winter Park, FL<br/><br/>Active room and Harper power-league host; equipment inventory requires field audit.<br/><br/><a href="https://trickshotsbilliards.com/locations/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7644 University Blvd, Winter Park, FL<br/><br/>Active room and Harper power-league host; equipment inventory requires field audit.<br/><br/><a href="https://trickshotsbilliards.com/locations/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -83,7 +83,7 @@
     <Placemark>
       <name>Backstage Billiards I-Drive</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 5656 International Dr, Orlando, FL<br/><br/>Large tourist-corridor room lead; exact equipment, smoke and serious-player depth require verification.<br/><br/><a href="https://backstagebilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 5656 International Dr, Orlando, FL<br/><br/>Large tourist-corridor room lead; exact equipment, smoke and serious-player depth require verification.<br/><br/><a href="https://backstagebilliards.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -94,7 +94,7 @@
     <Placemark>
       <name>Caribe Royale Orlando</name>
       <styleUrl>#event</styleUrl>
-      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 8101 World Center Dr, Orlando, FL<br/><br/>2026 Mosconi Cup campus and major-event destination; not permanent everyday room capacity.<br/><br/><a href="https://matchroompool.com/major/2026-mosconi-cup-set-to-return-to-caribe-royale-resort-in-orlando-florida/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 8101 World Center Dr, Orlando, FL<br/><br/>2026 Mosconi Cup campus and major-event destination; not permanent everyday room capacity.<br/><br/><a href="https://matchroompool.com/major/2026-mosconi-cup-set-to-return-to-caribe-royale-resort-in-orlando-florida/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Orlando</value></Data>
         <Data name="evidence_type"><value>event</value></Data>

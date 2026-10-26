@@ -39,7 +39,7 @@
     <Placemark>
       <name>Pockets Pool &amp; Pub</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1062 S Wilmot Rd, Tucson, AZ<br/><br/>Verified: ten regulation 9-foot and seven 7-foot Diamond tables; Sunday 9-foot tournament listed at 1 p.m.<br/><br/><a href="https://pocketstucson.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1062 S Wilmot Rd, Tucson, AZ<br/><br/>Verified: ten regulation 9-foot and seven 7-foot Diamond tables; Sunday 9-foot tournament listed at 1 p.m.<br/><br/><a href="https://pocketstucson.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Tucson</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -50,7 +50,7 @@
     <Placemark>
       <name>Clicks Tucson</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3325 N 1st Ave, Tucson, AZ<br/><br/>Verified mixed 19-table room including four 9-foot tables; in-house league Sun-Thu at 6:30.<br/><br/><a href="https://www.clicks.com/tucson-leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3325 N 1st Ave, Tucson, AZ<br/><br/>Verified mixed 19-table room including four 9-foot tables; in-house league Sun-Thu at 6:30.<br/><br/><a href="https://www.clicks.com/tucson-leagues">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Tucson</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -61,7 +61,7 @@
     <Placemark>
       <name>Fox &amp; Hound Tucson</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7625 N La Cholla Blvd, Tucson, AZ<br/><br/>Published Tucson APA Masters host with Pockets; equipment not audited.<br/><br/><a href="https://tucson.apaleagues.com/CustomPage.aspx?q=3047">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7625 N La Cholla Blvd, Tucson, AZ<br/><br/>Published Tucson APA Masters host with Pockets; equipment not audited.<br/><br/><a href="https://tucson.apaleagues.com/CustomPage.aspx?q=3047">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Tucson</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -72,7 +72,7 @@
     <Placemark>
       <name>LB Saloon</name>
       <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6727 E Tanque Verde Rd, Tucson, AZ<br/><br/>Local room lead only; verify operating status, equipment and schedule before use.<br/><br/><a href="https://csibbm.com/Public/FindALeague/1?LeagueSearchState=AZ">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6727 E Tanque Verde Rd, Tucson, AZ<br/><br/>Local room lead only; verify operating status, equipment and schedule before use.<br/><br/><a href="https://csibbm.com/Public/FindALeague/1?LeagueSearchState=AZ">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Tucson</value></Data>
         <Data name="evidence_type"><value>lead</value></Data>

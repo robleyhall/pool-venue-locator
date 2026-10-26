@@ -52,8 +52,8 @@ def placemark(v: dict) -> str:
         f"<b>Status:</b> {html.escape(label)}<br/>"
         f"<b>Address:</b> {html.escape(v['address'])}<br/><br/>"
         f"{html.escape(v['note'])}<br/><br/>"
-        f"<a href=\"{html.escape(v['url'], quote=True)}\">Primary source / lead</a><br/>"
-        f"Reviewed {html.escape(v.get('reviewed', '2026-08-18'))}. Reverify time-sensitive schedules before travel."
+        f"<a href=\"{html.escape(v['url'], quote=True)}\">Website/Source</a><br/>"
+        f"Reviewed {html.escape(v.get('reviewed', '2026-08-18'))}."
         + (f"<br/><b>Coordinates:</b> {html.escape(v['coordinate_source'])}. {html.escape(v['coordinate_note'])}" if v.get("coordinate_source") else "")
     )
     return f"""    <Placemark>

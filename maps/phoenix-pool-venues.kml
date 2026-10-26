@@ -39,7 +39,7 @@
     <Placemark>
       <name>Bull Shooters</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3337 W Peoria Ave, Phoenix, AZ<br/><br/>Current AZPL host and long-standing major-room lead; audit current inventory and condition.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3337 W Peoria Ave, Phoenix, AZ<br/><br/>Current AZPL host and long-standing major-room lead; audit current inventory and condition.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -50,7 +50,7 @@
     <Placemark>
       <name>Main Street Billiards</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1749 W Main St, Mesa, AZ<br/><br/>Verified: 19 nine-foot and 16 seven-foot Diamond tables plus a heated Gabriels.<br/><br/><a href="https://mainstreetbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1749 W Main St, Mesa, AZ<br/><br/>Verified: 19 nine-foot and 16 seven-foot Diamond tables plus a heated Gabriels.<br/><br/><a href="https://mainstreetbilliards.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -61,7 +61,7 @@
     <Placemark>
       <name>Kolby&#x27;s Corner Pocket</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1301 E University Dr, Tempe, AZ<br/><br/>Verified: four 9-foot Diamonds, six 9-foot Gold Crowns, five 7-foot Diamonds and one 9-foot Joy Q8.<br/><br/><a href="https://www.kolbys.net/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1301 E University Dr, Tempe, AZ<br/><br/>Verified: four 9-foot Diamonds, six 9-foot Gold Crowns, five 7-foot Diamonds and one 9-foot Joy Q8.<br/><br/><a href="https://www.kolbys.net/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -72,7 +72,7 @@
     <Placemark>
       <name>Dozer&#x27;s Grill</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7012 E Hampton Ave, Mesa, AZ<br/><br/>Current East Valley AZPL host.<br/><br/><a href="https://www.dozersgrill.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7012 E Hampton Ave, Mesa, AZ<br/><br/>Current East Valley AZPL host.<br/><br/><a href="https://www.dozersgrill.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -83,7 +83,7 @@
     <Placemark>
       <name>Metro Sportz Bar</name>
       <styleUrl>#serious</styleUrl>
-      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 10111 N Metro Pkwy E, Phoenix, AZ<br/><br/>Official nightly tournaments, 2026 Phoenix Open host, and Scott Frost instruction; exact table inventory still requires field verification.<br/><br/><a href="https://metrosportzbar.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 10111 N Metro Pkwy E, Phoenix, AZ<br/><br/>Official nightly tournaments, 2026 Phoenix Open host, and Scott Frost instruction; exact table inventory still requires field verification.<br/><br/><a href="https://metrosportzbar.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>serious</value></Data>
@@ -94,7 +94,7 @@
     <Placemark>
       <name>Jester&#x27;s Billiards</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1515 N Gilbert Rd, Gilbert, AZ<br/><br/>Current East Valley AZPL host; exact table mix and condition require verification.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1515 N Gilbert Rd, Gilbert, AZ<br/><br/>Current East Valley AZPL host; exact table mix and condition require verification.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -105,7 +105,7 @@
     <Placemark>
       <name>Cactus Racks</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 30845 N Cave Creek Rd, Cave Creek, AZ<br/><br/>Current AZPL session host; far-north rather than East Valley redundancy.<br/><br/><a href="https://azpool.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 30845 N Cave Creek Rd, Cave Creek, AZ<br/><br/>Current AZPL session host; far-north rather than East Valley redundancy.<br/><br/><a href="https://azpool.com/">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
@@ -116,7 +116,7 @@
     <Placemark>
       <name>Mill&#x27;s Modern Social</name>
       <styleUrl>#support</styleUrl>
-      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 83 E Broadway Rd, Tempe, AZ<br/><br/>Official Diamond-table venue and current AZPL host.<br/><br/><a href="https://millsmodernsocial.com/play">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 83 E Broadway Rd, Tempe, AZ<br/><br/>Official Diamond-table venue and current AZPL host.<br/><br/><a href="https://millsmodernsocial.com/play">Website/Source</a><br/>Reviewed 2026-08-18.]]></description>
       <ExtendedData>
         <Data name="market"><value>Phoenix</value></Data>
         <Data name="evidence_type"><value>support</value></Data>
