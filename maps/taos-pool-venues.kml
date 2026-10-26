@@ -39,24 +39,13 @@
     <Placemark>
       <name>The Alley Cantina</name>
       <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 121 Teresina Ln, Taos, NM 87571<br/><br/>Trip visit: small one-table bar; strongest social pool experience of the trip. Not a serious room; retained as a context anchor.<br/><br/><a href="https://www.alleycantinataos.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 121 Teresina Ln, Taos, NM 87571<br/><br/>small one-table bar; noted by a local observer as a strong social pool spot. Not a serious room; retained as a context anchor.<br/><br/><a href="https://www.alleycantinataos.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street-address match, 2026-10-26. Approximate interpolated street-address location; not a verified building entrance.]]></description>
       <ExtendedData>
         <Data name="market"><value>Taos, New Mexico</value></Data>
         <Data name="evidence_type"><value>lead</value></Data>
         <Data name="address"><value>121 Teresina Ln, Taos, NM 87571</value></Data>
       </ExtendedData>
       <Point><coordinates>-105.5747519,36.4079724,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unresolved Carroll Street venue</name>
-      <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> E Carroll St, Taos, NM 87571<br/><br/>Trip diary records pool at 920 E Carroll St in Taos; no business at that address is confirmed in public sources. Approximate street location; requires local verification.<br/><br/><a href="https://www.openstreetmap.org/search?query=Carroll%20Street%2C%20Taos%2C%20NM">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Street-name centroid; house number 920 not confirmed by any gazetteer. Approximate location; verify exact address on site.]]></description>
-      <ExtendedData>
-        <Data name="market"><value>Taos, New Mexico</value></Data>
-        <Data name="evidence_type"><value>lead</value></Data>
-        <Data name="address"><value>E Carroll St, Taos, NM 87571</value></Data>
-      </ExtendedData>
-      <Point><coordinates>-105.3839559,36.3607536,0</coordinates></Point>
     </Placemark>
   </Folder>
 

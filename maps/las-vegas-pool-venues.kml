@@ -94,7 +94,7 @@
     <Placemark>
       <name>Griff&#x27;s Billiards</name>
       <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> Las Vegas, NV<br/><br/>Trip route/departure reference from Green Valley/Henderson; field notes contain no venue assessment. Exact address, equipment and schedule require verification.<br/><br/><a href="https://www.griffsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, POI match, 2026-10-26. Point-of-interest location; verify exact address on site.]]></description>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> Las Vegas, NV<br/><br/>Reported by a local observer as a route/departure reference in Green Valley/Henderson; no venue assessment captured. Exact address, equipment and schedule require verification.<br/><br/><a href="https://www.griffsbilliards.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, POI match, 2026-10-26. Point-of-interest location; verify exact address on site.]]></description>
       <ExtendedData>
         <Data name="market"><value>Las Vegas</value></Data>
         <Data name="evidence_type"><value>lead</value></Data>
@@ -105,7 +105,7 @@
     <Placemark>
       <name>El Cortez billiards</name>
       <styleUrl>#lead</styleUrl>
-      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2880 Las Vegas Blvd S, Las Vegas, NV 89109<br/><br/>Trip mention only; no venue assessment captured in field notes. Equipment and operating status require verification.<br/><br/><a href="https://www.elcortezlv.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 2880 Las Vegas Blvd S, Las Vegas, NV 89109<br/><br/>Local mention only; no venue assessment captured. Equipment and operating status require verification.<br/><br/><a href="https://www.elcortezlv.com/">Website/Source</a><br/>Reviewed 2026-10-26.<br/><b>Coordinates:</b> ArcGIS World Geocoder, street name match, 2026-10-26. Approximate location; verify exact address on site.]]></description>
       <ExtendedData>
         <Data name="market"><value>Las Vegas</value></Data>
         <Data name="evidence_type"><value>lead</value></Data>
