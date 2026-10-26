@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Tucson Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Tucson</name>
+    <Placemark>
+      <name>Pockets Pool &amp; Pub</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1062 S Wilmot Rd, Tucson, AZ<br/><br/>Verified: ten regulation 9-foot and seven 7-foot Diamond tables; Sunday 9-foot tournament listed at 1 p.m.<br/><br/><a href="https://pocketstucson.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1062 S Wilmot Rd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.85839,32.2318543,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Clicks Tucson</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3325 N 1st Ave, Tucson, AZ<br/><br/>Verified mixed 19-table room including four 9-foot tables; in-house league Sun-Thu at 6:30.<br/><br/><a href="https://www.clicks.com/tucson-leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3325 N 1st Ave, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.9614149,32.2726128,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fox &amp; Hound Tucson</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7625 N La Cholla Blvd, Tucson, AZ<br/><br/>Published Tucson APA Masters host with Pockets; equipment not audited.<br/><br/><a href="https://tucson.apaleagues.com/CustomPage.aspx?q=3047">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>7625 N La Cholla Blvd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.0134079,32.3444368,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>LB Saloon</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6727 E Tanque Verde Rd, Tucson, AZ<br/><br/>Local room lead only; verify operating status, equipment and schedule before use.<br/><br/><a href="https://csibbm.com/Public/FindALeague/1?LeagueSearchState=AZ">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>6727 E Tanque Verde Rd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.8408562,32.2508613,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

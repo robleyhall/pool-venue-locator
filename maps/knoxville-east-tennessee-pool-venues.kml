@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Knoxville / East Tennessee Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Knoxville / East Tennessee</name>
+    <Placemark>
+      <name>Peyton&#x27;s Place</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 5210 Schubert Rd NW #C, Knoxville, TN<br/><br/>Verified weekly 9-ball, Mon BCA, Tue/Wed 8-ball, Thu 9-ball and both 7-/9-foot pricing; counts/brands unverified.<br/><br/><a href="https://peytonsplaceknox.com/pool-rates">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>5210 Schubert Rd NW #C, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.9732392,36.0055759,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucky Shot Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6021 Chapman Hwy, Knoxville, TN<br/><br/>Active long-hours room; exact current equipment and serious tournament calendar require direct verification.<br/><br/><a href="https://www.luckyshotbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>6021 Chapman Hwy, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.8779247,35.9209234,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Petty&#x27;s Pub</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 6520 Chapman Hwy, Knoxville, TN<br/><br/>Official pool venue; CSI lists Tue/Wed/Sun in-house league. Likely flyer-listed &#x27;Petty&#x27;s Place&#x27;; Ultimate naming confirmation remains open.<br/><br/><a href="https://pettyspub.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>6520 Chapman Hwy, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.8658686,35.9212616,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Tennessee Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 2002 Winfield Dunn Pkwy, Sevierville, TN<br/><br/>Verified six Diamond tables, Monday 699-under 9-ball and Ultimate Wednesday; table sizes unverified.<br/><br/><a href="https://easttnbilliards.com/sevierville-east-tennessee-billiards-events">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>2002 Winfield Dunn Pkwy, Sevierville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.5825514,35.9286606,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maryville Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 542 E Broadway Ave, Maryville, TN<br/><br/>Verified: four 7-foot, one 8-foot and one 9-foot Diamond; tournaments Fri/Sat/Sun, APA Thu.<br/><br/><a href="https://maryvillebilliards.wordpress.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>542 E Broadway Ave, Maryville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.9680866,35.7595041,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Breaker&#x27;s Billiards &amp; Brews</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 7485 W Andrew Johnson Hwy, Mosheim, TN<br/><br/>Ultimate Friday host and regional tournament lead; regional travel, not Knoxville weekly redundancy.<br/><br/><a href="https://league.ultimatepoolusa.com/ultimatepool/leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>7485 W Andrew Johnson Hwy, Mosheim, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.9706345,36.1868364,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sevierville Billiard Club</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 504 W Main St, Sevierville, TN<br/><br/>Current operating lead; exact equipment and schedule require direct verification.<br/><br/><a href="https://www.reddit.com/r/billiards/comments/1n8he56">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>504 W Main St, Sevierville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.5804186,35.8742174,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Numan&#x27;s Cafe &amp; Sports Bar</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 225 E Main St, Johnson City, TN<br/><br/>Established regional room; official APA Tue/Thu and current independent 20-table claim. Too far for Knoxville routine redundancy.<br/><br/><a href="https://numanscafeandsportsbar.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>225 E Main St, Johnson City, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.3518691,36.3170084,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Borderline Billiards</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 616 State St, Bristol, TN<br/><br/>Verified Ultimate venue: six 7-foot Brunswick tables, Mon/Wed and ladies Sunday. Regional only.<br/><br/><a href="https://league.ultimatepoolusa.com/leagues/bristol/venue/3451">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>616 State St, Bristol, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.2262587,36.5911878,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Harrah&#x27;s Cherokee Casino Resort</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 777 Casino Dr, Cherokee, NC<br/><br/>Regional 2026 Ultimate National Open destination lead; not an everyday pool room.<br/><br/><a href="https://league.ultimatepoolusa.com/ultimatepool/leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>777 Casino Dr, Cherokee, NC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.2991547,35.4687855,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

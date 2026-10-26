@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Austin / Round Rock / Cedar Park Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Austin / Round Rock / Cedar Park</name>
+    <Placemark>
+      <name>Skinny Bob&#x27;s Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 300 Hesters Crossing Rd, Round Rock, TX 78681<br/><br/>18 nine-foot Diamond Pro-Am tables; two ten-foot Gabriel carom tables. Primary northern anchor; BCA/CSI Wednesday advertised, exact current division and table assignment unverified. Weekly nine-ball advertised Mon/Tue/Fri/Sat/Sun; Texas Open host.<br/><br/><a href="https://skinnybobs.com/pool/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>300 Hesters Crossing Rd, Round Rock, TX 78681</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.677850253557,30.488550703875,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fast Eddie&#x27;s Northfork</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 13945 N US 183 #D122, Austin, TX 78717<br/><br/>16 eight-foot tables, not nine-foot. Tuesday 7pm CTPL BCA Lagger&#x27;s Choice advertised. Confirm session and availability.<br/><br/><a href="https://eddiestavernsocialclub.com/northfork/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>13945 N US 183 #D122, Austin, TX 78717</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.797906191298,30.472489938904,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eddie&#x27;s Tavern Round Rock</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 100 Parker Dr, Austin, TX 78728<br/><br/>27 eight-foot tables. CTPL/BCA Mon/Wed/Thu 7pm advertised; Thursday Scotch doubles. Supporting league capacity, not nine-foot redundancy.<br/><br/><a href="https://eddiestavernsocialclub.com/round-rock/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>100 Parker Dr, Austin, TX 78728</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.673882990885,30.47423365084,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooters Austin / 620</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 11416 N FM 620, Austin, TX 78726<br/><br/>16 tables including one nine-foot. Indoors smoke-free, patio smoking. Large-table availability and league assignment require confirmation.<br/><br/><a href="https://shootersbilliards.net/locations">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> Venue-linked Google Maps place coordinates. Venue-linked map pin; entrance not field-verified.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>11416 N FM 620, Austin, TX 78726</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.8290061,30.4538182,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooters Cedar Park</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 601 E Whitestone Blvd, Cedar Park, TX 78613<br/><br/>14 tables; sizes unspecified. Smoking allowed indoors and outside. Supplementary room, not established nine-foot capacity.<br/><br/><a href="https://shootersbilliards.net/locations">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> Venue-linked Google Maps place coordinates. Venue-linked map pin; entrance not field-verified.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>601 E Whitestone Blvd, Cedar Park, TX 78613</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.8248908,30.5239199,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grand</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 4631 Airport Blvd #121, Austin, TX 78751<br/><br/>Active pool hall and CTPL partner. Exact current table count, sizes and suitable league division unresolved.<br/><br/><a href="https://thegrandatx.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>4631 Airport Blvd #121, Austin, TX 78751</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.715815955193,30.305310181811,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Betsy&#x27;s Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1901 W William Cannon Dr #147, Austin, TX 78745<br/><br/>South Austin league/tournament room. Authoritative current table-size/count breakdown unresolved; do not count as verified nine-foot capacity.<br/><br/><a href="https://www.betsysbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>1901 W William Cannon Dr #147, Austin, TX 78745</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.804491793549,30.20220736275,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Warehouse Billiard Bar</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 509 E Ben White Blvd, Austin, TX 78704<br/><br/>Publishes eight nine-foot, seven eight-foot, one snooker and one 4x8 coin-op table. Sunday 8pm nine-ball on nine-foot advertised. Inventory/schedule undated: confirm. South-side anchor, not convenient northern redundancy by default.<br/><br/><a href="https://warehousebilliardbar.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>509 E Ben White Blvd, Austin, TX 78704</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.758607103684,30.219660048577,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mayfield&#x27;s Bar &amp; Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 13201 Pond Springs Rd, Austin, TX 78729<br/><br/>CTPL lists registrations and league nights in development, not a verified active division. Address from September project research; current equipment and operating details need confirmation.<br/><br/><a href="https://centraltexaspoolleagues.com/venues/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>13201 Pond Springs Rd, Austin, TX 78729</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.777894327172,30.444978767195,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Slick Willie&#x27;s</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 8440 Burnet Rd, Austin, TX 78757<br/><br/>Legacy official page lists 35 tables, two nine-foot with Simonis. Reconfirm inventory; CTPL says forming teams, not proof of an active BCA division.<br/><br/><a href="https://www.slickw.com/sites/austin/8440burnet.htm">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>8440 Burnet Rd, Austin, TX 78757</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.72852359511,30.365051563201,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Stardust Club</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 11940 Menchaca Rd #114, Austin, TX 78748<br/><br/>South Austin social/pool supplement; live venue calendar includes pool activity. Table sizes and suitable non-APA competition unresolved. Address from September project research.<br/><br/><a href="https://thestardustclub.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>11940 Menchaca Rd #114, Austin, TX 78748</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.833088055991,30.144347211298,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coppertank Pool Hall</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 504 Trinity St, Austin, TX 78701<br/><br/>13 tables advertised; sizes unspecified. Downtown social pool, not established serious recurring non-APA competition.<br/><br/><a href="https://www.coppertankpoolhall.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>504 Trinity St, Austin, TX 78701</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.739707990585,30.266237639641,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

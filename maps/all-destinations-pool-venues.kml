@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>All Destination Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Austin / Round Rock / Cedar Park</name>
+    <Placemark>
+      <name>Skinny Bob&#x27;s Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 300 Hesters Crossing Rd, Round Rock, TX 78681<br/><br/>18 nine-foot Diamond Pro-Am tables; two ten-foot Gabriel carom tables. Primary northern anchor; BCA/CSI Wednesday advertised, exact current division and table assignment unverified. Weekly nine-ball advertised Mon/Tue/Fri/Sat/Sun; Texas Open host.<br/><br/><a href="https://skinnybobs.com/pool/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>300 Hesters Crossing Rd, Round Rock, TX 78681</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.677850253557,30.488550703875,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fast Eddie&#x27;s Northfork</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 13945 N US 183 #D122, Austin, TX 78717<br/><br/>16 eight-foot tables, not nine-foot. Tuesday 7pm CTPL BCA Lagger&#x27;s Choice advertised. Confirm session and availability.<br/><br/><a href="https://eddiestavernsocialclub.com/northfork/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>13945 N US 183 #D122, Austin, TX 78717</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.797906191298,30.472489938904,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eddie&#x27;s Tavern Round Rock</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 100 Parker Dr, Austin, TX 78728<br/><br/>27 eight-foot tables. CTPL/BCA Mon/Wed/Thu 7pm advertised; Thursday Scotch doubles. Supporting league capacity, not nine-foot redundancy.<br/><br/><a href="https://eddiestavernsocialclub.com/round-rock/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>100 Parker Dr, Austin, TX 78728</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.673882990885,30.47423365084,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooters Austin / 620</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 11416 N FM 620, Austin, TX 78726<br/><br/>16 tables including one nine-foot. Indoors smoke-free, patio smoking. Large-table availability and league assignment require confirmation.<br/><br/><a href="https://shootersbilliards.net/locations">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> Venue-linked Google Maps place coordinates. Venue-linked map pin; entrance not field-verified.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>11416 N FM 620, Austin, TX 78726</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.8290061,30.4538182,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooters Cedar Park</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 601 E Whitestone Blvd, Cedar Park, TX 78613<br/><br/>14 tables; sizes unspecified. Smoking allowed indoors and outside. Supplementary room, not established nine-foot capacity.<br/><br/><a href="https://shootersbilliards.net/locations">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> Venue-linked Google Maps place coordinates. Venue-linked map pin; entrance not field-verified.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>601 E Whitestone Blvd, Cedar Park, TX 78613</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.8248908,30.5239199,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grand</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 4631 Airport Blvd #121, Austin, TX 78751<br/><br/>Active pool hall and CTPL partner. Exact current table count, sizes and suitable league division unresolved.<br/><br/><a href="https://thegrandatx.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>4631 Airport Blvd #121, Austin, TX 78751</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.715815955193,30.305310181811,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Betsy&#x27;s Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1901 W William Cannon Dr #147, Austin, TX 78745<br/><br/>South Austin league/tournament room. Authoritative current table-size/count breakdown unresolved; do not count as verified nine-foot capacity.<br/><br/><a href="https://www.betsysbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>1901 W William Cannon Dr #147, Austin, TX 78745</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.804491793549,30.20220736275,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Warehouse Billiard Bar</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 509 E Ben White Blvd, Austin, TX 78704<br/><br/>Publishes eight nine-foot, seven eight-foot, one snooker and one 4x8 coin-op table. Sunday 8pm nine-ball on nine-foot advertised. Inventory/schedule undated: confirm. South-side anchor, not convenient northern redundancy by default.<br/><br/><a href="https://warehousebilliardbar.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>509 E Ben White Blvd, Austin, TX 78704</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.758607103684,30.219660048577,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mayfield&#x27;s Bar &amp; Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 13201 Pond Springs Rd, Austin, TX 78729<br/><br/>CTPL lists registrations and league nights in development, not a verified active division. Address from September project research; current equipment and operating details need confirmation.<br/><br/><a href="https://centraltexaspoolleagues.com/venues/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>13201 Pond Springs Rd, Austin, TX 78729</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.777894327172,30.444978767195,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Slick Willie&#x27;s</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 8440 Burnet Rd, Austin, TX 78757<br/><br/>Legacy official page lists 35 tables, two nine-foot with Simonis. Reconfirm inventory; CTPL says forming teams, not proof of an active BCA division.<br/><br/><a href="https://www.slickw.com/sites/austin/8440burnet.htm">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>8440 Burnet Rd, Austin, TX 78757</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.72852359511,30.365051563201,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Stardust Club</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 11940 Menchaca Rd #114, Austin, TX 78748<br/><br/>South Austin social/pool supplement; live venue calendar includes pool activity. Table sizes and suitable non-APA competition unresolved. Address from September project research.<br/><br/><a href="https://thestardustclub.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>11940 Menchaca Rd #114, Austin, TX 78748</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.833088055991,30.144347211298,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coppertank Pool Hall</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 504 Trinity St, Austin, TX 78701<br/><br/>13 tables advertised; sizes unspecified. Downtown social pool, not established serious recurring non-APA competition.<br/><br/><a href="https://www.coppertankpoolhall.com/">Primary source / lead</a><br/>Reviewed 2026-10-24. Reverify time-sensitive schedules before travel.<br/><b>Coordinates:</b> US Census Geocoder Public_AR_Current, street-address match, 2026-10-24. Approximate interpolated street-address location; not a verified building entrance.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Austin / Round Rock / Cedar Park</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>504 Trinity St, Austin, TX 78701</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.739707990585,30.266237639641,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Las Vegas</name>
+    <Placemark>
+      <name>Griff&#x27;s Bar &amp; Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3650 S Decatur Blvd, Las Vegas, NV<br/><br/>Verified: 11 nine-foot and 15 seven-foot Diamond tables; non-smoking; recurring Thu/Fri/Sun tournaments.<br/><br/><a href="https://www.griffslv.com/about">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3650 S Decatur Blvd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.2080223,36.1376215,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Good Timez Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 5740 W Charleston Blvd, Las Vegas, NV<br/><br/>Active venue and current TAP host; exact current equipment mix needs field inventory.<br/><br/><a href="https://goodtimezbilliards.wixsite.com/goodtimezbilliardslv/contact">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>5740 W Charleston Blvd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.241022,36.1597268,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangin Ballz Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 9155 S Las Vegas Blvd #222, Las Vegas, NV<br/><br/>Rasson-equipped room; current BCAPL/TAP host; verify current count and open 9-foot access.<br/><br/><a href="https://banginballzbilliards.com/contact/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>9155 S Las Vegas Blvd #222, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1763191,36.0224274,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Vegas Cue Club</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 953 E Sahara Ave #15A, Las Vegas, NV<br/><br/>Current 24-hour room lead; equipment, maintenance and smoke conditions require direct verification.<br/><br/><a href="https://cuesportsusa.com/billiard-clubs-and-pool-halls/nevada/las-vegas/las-vegas-cue-club">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>953 E Sahara Ave #15A, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.142966,36.143464,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgate Las Vegas</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 3000 Paradise Rd, Las Vegas, NV<br/><br/>2026 BCAPL/USAPL, VNEA and APA championship campus; temporary event tables are not permanent local capacity.<br/><br/><a href="https://www.playcsipool.com/2026-bcapl-world-championships.html">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>3000 Paradise Rd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1513429,36.1356551,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Phoenix</name>
+    <Placemark>
+      <name>Bull Shooters</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3337 W Peoria Ave, Phoenix, AZ<br/><br/>Current AZPL host and long-standing major-room lead; audit current inventory and condition.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3337 W Peoria Ave, Phoenix, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-112.1327747,33.5806907,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Main Street Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1749 W Main St, Mesa, AZ<br/><br/>Verified: 19 nine-foot and 16 seven-foot Diamond tables plus a heated Gabriels.<br/><br/><a href="https://mainstreetbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1749 W Main St, Mesa, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.869603,33.4140749,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kolby&#x27;s Corner Pocket</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1301 E University Dr, Tempe, AZ<br/><br/>Verified: four 9-foot Diamonds, six 9-foot Gold Crowns, five 7-foot Diamonds and one 9-foot Joy Q8.<br/><br/><a href="https://www.kolbys.net/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1301 E University Dr, Tempe, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.9166398,33.4213504,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dozer&#x27;s Grill</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7012 E Hampton Ave, Mesa, AZ<br/><br/>Current East Valley AZPL host.<br/><br/><a href="https://www.dozersgrill.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>7012 E Hampton Ave, Mesa, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.6794686,33.3920253,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Metro Sportz Bar</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 10111 N Metro Pkwy E, Phoenix, AZ<br/><br/>Official nightly tournaments, 2026 Phoenix Open host, and Scott Frost instruction; exact table inventory still requires field verification.<br/><br/><a href="https://metrosportzbar.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>10111 N Metro Pkwy E, Phoenix, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-112.1185444,33.572184,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jester&#x27;s Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1515 N Gilbert Rd, Gilbert, AZ<br/><br/>Current East Valley AZPL host; exact table mix and condition require verification.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>1515 N Gilbert Rd, Gilbert, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.7877881,33.3769892,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cactus Racks</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 30845 N Cave Creek Rd, Cave Creek, AZ<br/><br/>Current AZPL session host; far-north rather than East Valley redundancy.<br/><br/><a href="https://azpool.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>30845 N Cave Creek Rd, Cave Creek, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.9672866,33.7990128,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill&#x27;s Modern Social</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 83 E Broadway Rd, Tempe, AZ<br/><br/>Official Diamond-table venue and current AZPL host.<br/><br/><a href="https://millsmodernsocial.com/play">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>83 E Broadway Rd, Tempe, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.922157,33.4073782,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Tucson</name>
+    <Placemark>
+      <name>Pockets Pool &amp; Pub</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1062 S Wilmot Rd, Tucson, AZ<br/><br/>Verified: ten regulation 9-foot and seven 7-foot Diamond tables; Sunday 9-foot tournament listed at 1 p.m.<br/><br/><a href="https://pocketstucson.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1062 S Wilmot Rd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.85839,32.2318543,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Clicks Tucson</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3325 N 1st Ave, Tucson, AZ<br/><br/>Verified mixed 19-table room including four 9-foot tables; in-house league Sun-Thu at 6:30.<br/><br/><a href="https://www.clicks.com/tucson-leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3325 N 1st Ave, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.9614149,32.2726128,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fox &amp; Hound Tucson</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7625 N La Cholla Blvd, Tucson, AZ<br/><br/>Published Tucson APA Masters host with Pockets; equipment not audited.<br/><br/><a href="https://tucson.apaleagues.com/CustomPage.aspx?q=3047">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>7625 N La Cholla Blvd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.0134079,32.3444368,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>LB Saloon</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6727 E Tanque Verde Rd, Tucson, AZ<br/><br/>Local room lead only; verify operating status, equipment and schedule before use.<br/><br/><a href="https://csibbm.com/Public/FindALeague/1?LeagueSearchState=AZ">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Tucson</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>6727 E Tanque Verde Rd, Tucson, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-110.8408562,32.2508613,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Dallas–Fort Worth</name>
+    <Placemark>
+      <name>Stixx &amp; Stones</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 2302 TX-121 BUS #160, Lewisville, TX<br/><br/>Verified: ten 7-foot and five 9-foot Diamonds; smoke/vape-free; Masters, BCA, TAP, NAPA, juniors and tournaments.<br/><br/><a href="https://www.stixxandstones.club/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>2302 TX-121 BUS #160, Lewisville, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9915454,33.0184097,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rusty&#x27;s Billiards Fort Worth</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 7703 Camp Bowie W Blvd, Fort Worth, TX<br/><br/>Verified recurring Mon league, Tue/Wed handicapped 9-ball and Thu APA; inventory field audit needed.<br/><br/><a href="https://www.rustysbilliards.com/tourny.html">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>7703 Camp Bowie W Blvd, Fort Worth, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.4481849,32.7215274,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rusty&#x27;s Billiards Arlington</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 3151 S Cooper St, Arlington, TX<br/><br/>24-hour sister room; exact equipment and current competitive schedule need direct verification.<br/><br/><a href="https://www.rustysbilliards.com/location.html">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>3151 S Cooper St, Arlington, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1197273,32.701915,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Billiard Den</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 580 W Arapaho Rd, Richardson, TX<br/><br/>Verified: 23 pool tables and two 10-foot snooker tables; non-smoking main area.<br/><br/><a href="https://billiardden.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>580 W Arapaho Rd, Richardson, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7377405,32.9645548,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wizards Sports Cafe</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 747 S Central Expy, Richardson, TX<br/><br/>Verified: sixteen Gold Crowns and two Diamond championship tables.<br/><br/><a href="https://www.wizardssportscafe.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>747 S Central Expy, Richardson, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7093601,32.9895955,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rack Daddy&#x27;s</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 17509 Coit Rd, Dallas, TX<br/><br/>Current league/tournament room lead; widely listed 18 Brunswick tables but official inventory needs verification.<br/><br/><a href="https://northdallas.apaleagues.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>17509 Coit Rd, Dallas, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7687592,32.9890767,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>JR Pockets</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1127 Fort Worth Dr, Denton, TX<br/><br/>Active low-cost room; exact current table mix and schedule require direct verification.<br/><br/><a href="https://jrpockets.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>1127 Fort Worth Dr, Denton, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1403143,33.1790444,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pockets Euless</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 210 S Industrial Blvd, Euless, TX<br/><br/>Verified: sixteen Olhausen Grand Champion Pro tables, smoke-free; Saturday 9-ball.<br/><br/><a href="https://pocketseuless.com/home">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Dallas–Fort Worth</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>210 S Industrial Blvd, Euless, TX</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0995941,32.8283104,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Southern New Hampshire / Regional Reach</name>
+    <Placemark>
+      <name>The Billiards Cafe</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 39 Main St, Ayer, MA<br/><br/>Corroborated: thirteen 9-foot Brunswick tables; official site says public tables are always available. Verify current inventory and league calendar.<br/><br/><a href="https://thebilliardscafe.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>39 Main St, Ayer, MA</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.5885011,42.5598205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maxamillians Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 315 Middlesex Rd #4, Tyngsborough, MA<br/><br/>Verified: fourteen Connelly regulation-size tables and active pool league.<br/><br/><a href="https://maxamillians.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>315 Middlesex Rd #4, Tyngsborough, MA</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.4280048,42.6837686,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Strokers Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 116 Bridge St, Pelham, NH<br/><br/>Active USAPL/APA room; exact current table inventory and non-APA calendar need audit.<br/><br/><a href="https://www.strokerspoolpelham.com/blank-6">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>116 Bridge St, Pelham, NH</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.319131,42.7200469,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Nest Pub &amp; Grill</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 181 Plaistow Rd, Plaistow, NH<br/><br/>Eastern southern-NH pool lead; equipment and competitive schedule not yet verified.<br/><br/><a href="https://granitestate.apaleagues.com/Schedules.aspx">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>181 Plaistow Rd, Plaistow, NH</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.0912519,42.8594707,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Capital City Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 219 Fisherville Rd, Concord, NH<br/><br/>Verified official inventory: fourteen 9-foot Brunswick tables; regional travel from the southern border corridor.<br/><br/><a href="https://www.capcitybilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>219 Fisherville Rd, Concord, NH</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.5721471,43.2494285,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooters Bar &amp; Billiards</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 70 James St, Worcester, MA<br/><br/>Regional large-room/tournament lead; long routine drive from southern NH and current schedule requires verification.<br/><br/><a href="https://www.azbilliards.com/tourevent/joss-northeast-9-ball-tour/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>70 James St, Worcester, MA</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-71.8501436,42.232561,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Amazin Billiards Peabody (planned)</name>
+      <styleUrl>#planned</styleUrl>
+      <description><![CDATA[<b>Status:</b> Planned — not open<br/><b>Address:</b> 58-R Pulaski St, Peabody, MA<br/><br/>NOT OPEN: official site says coming soon and permit hearing pending; detailed plan says eighteen 9-foot plus four carom tables.<br/><br/><a href="https://www.amazinbilliards.com/coming-soon/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Southern New Hampshire / Regional Reach</value></Data>
+        <Data name="evidence_type"><value>planned</value></Data>
+        <Data name="address"><value>58-R Pulaski St, Peabody, MA</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-70.9276872,42.5418996,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Orlando</name>
+    <Placemark>
+      <name>Cue-Phoria Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1810 FL-436 #132, Winter Park, FL<br/><br/>Official: fourteen professional Diamond tables and non-smoking; sizes omitted. AZBilliards lead says only two are 9-foot.<br/><br/><a href="https://www.cue-phoria-billiards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1810 FL-436 #132, Winter Park, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.2884034,28.626327,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Racks Casselberry</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 1455 N Semoran Blvd #291, Casselberry, FL<br/><br/>Former Clicks address under Racks name; reopening/status and inherited league schedules require same-week confirmation.<br/><br/><a href="https://www.racksbilliards.com/contact">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>1455 N Semoran Blvd #291, Casselberry, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.3196561,28.6256454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Racks Sanford</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 312 N Entrance Rd, Sanford, FL<br/><br/>Official 9-foot and 7-foot Diamonds; AZBilliards lead reports eight 9-foot tables and action, count unverified.<br/><br/><a href="https://www.racksbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>312 N Entrance Rd, Sanford, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.3380523,28.8082459,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Trick Shots Winter Park</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7644 University Blvd, Winter Park, FL<br/><br/>Active room and Harper power-league host; equipment inventory requires field audit.<br/><br/><a href="https://trickshotsbilliards.com/locations/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>7644 University Blvd, Winter Park, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.3050127,28.5930244,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Backstage Billiards I-Drive</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 5656 International Dr, Orlando, FL<br/><br/>Large tourist-corridor room lead; exact equipment, smoke and serious-player depth require verification.<br/><br/><a href="https://backstagebilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>5656 International Dr, Orlando, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.4715719,28.4484122,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Caribe Royale Orlando</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 8101 World Center Dr, Orlando, FL<br/><br/>2026 Mosconi Cup campus and major-event destination; not permanent everyday room capacity.<br/><br/><a href="https://matchroompool.com/major/2026-mosconi-cup-set-to-return-to-caribe-royale-resort-in-orlando-florida/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Orlando</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>8101 World Center Dr, Orlando, FL</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-81.4929422,28.358173,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Knoxville / East Tennessee</name>
+    <Placemark>
+      <name>Peyton&#x27;s Place</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 5210 Schubert Rd NW #C, Knoxville, TN<br/><br/>Verified weekly 9-ball, Mon BCA, Tue/Wed 8-ball, Thu 9-ball and both 7-/9-foot pricing; counts/brands unverified.<br/><br/><a href="https://peytonsplaceknox.com/pool-rates">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>5210 Schubert Rd NW #C, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.9732392,36.0055759,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucky Shot Billiards</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 6021 Chapman Hwy, Knoxville, TN<br/><br/>Active long-hours room; exact current equipment and serious tournament calendar require direct verification.<br/><br/><a href="https://www.luckyshotbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>6021 Chapman Hwy, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.8779247,35.9209234,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Petty&#x27;s Pub</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 6520 Chapman Hwy, Knoxville, TN<br/><br/>Official pool venue; CSI lists Tue/Wed/Sun in-house league. Likely flyer-listed &#x27;Petty&#x27;s Place&#x27;; Ultimate naming confirmation remains open.<br/><br/><a href="https://pettyspub.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>6520 Chapman Hwy, Knoxville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.8658686,35.9212616,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Tennessee Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 2002 Winfield Dunn Pkwy, Sevierville, TN<br/><br/>Verified six Diamond tables, Monday 699-under 9-ball and Ultimate Wednesday; table sizes unverified.<br/><br/><a href="https://easttnbilliards.com/sevierville-east-tennessee-billiards-events">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>2002 Winfield Dunn Pkwy, Sevierville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.5825514,35.9286606,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maryville Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 542 E Broadway Ave, Maryville, TN<br/><br/>Verified: four 7-foot, one 8-foot and one 9-foot Diamond; tournaments Fri/Sat/Sun, APA Thu.<br/><br/><a href="https://maryvillebilliards.wordpress.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>542 E Broadway Ave, Maryville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.9680866,35.7595041,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Breaker&#x27;s Billiards &amp; Brews</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 7485 W Andrew Johnson Hwy, Mosheim, TN<br/><br/>Ultimate Friday host and regional tournament lead; regional travel, not Knoxville weekly redundancy.<br/><br/><a href="https://league.ultimatepoolusa.com/ultimatepool/leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>7485 W Andrew Johnson Hwy, Mosheim, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.9706345,36.1868364,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sevierville Billiard Club</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 504 W Main St, Sevierville, TN<br/><br/>Current operating lead; exact equipment and schedule require direct verification.<br/><br/><a href="https://www.reddit.com/r/billiards/comments/1n8he56">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>504 W Main St, Sevierville, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.5804186,35.8742174,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Numan&#x27;s Cafe &amp; Sports Bar</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 225 E Main St, Johnson City, TN<br/><br/>Established regional room; official APA Tue/Thu and current independent 20-table claim. Too far for Knoxville routine redundancy.<br/><br/><a href="https://numanscafeandsportsbar.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>225 E Main St, Johnson City, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.3518691,36.3170084,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Borderline Billiards</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 616 State St, Bristol, TN<br/><br/>Verified Ultimate venue: six 7-foot Brunswick tables, Mon/Wed and ladies Sunday. Regional only.<br/><br/><a href="https://league.ultimatepoolusa.com/leagues/bristol/venue/3451">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>616 State St, Bristol, TN</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-82.2262587,36.5911878,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Harrah&#x27;s Cherokee Casino Resort</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 777 Casino Dr, Cherokee, NC<br/><br/>Regional 2026 Ultimate National Open destination lead; not an everyday pool room.<br/><br/><a href="https://league.ultimatepoolusa.com/ultimatepool/leagues">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Knoxville / East Tennessee</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>777 Casino Dr, Cherokee, NC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-83.2991547,35.4687855,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

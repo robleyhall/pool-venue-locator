@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Phoenix Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Phoenix</name>
+    <Placemark>
+      <name>Bull Shooters</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3337 W Peoria Ave, Phoenix, AZ<br/><br/>Current AZPL host and long-standing major-room lead; audit current inventory and condition.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3337 W Peoria Ave, Phoenix, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-112.1327747,33.5806907,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Main Street Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1749 W Main St, Mesa, AZ<br/><br/>Verified: 19 nine-foot and 16 seven-foot Diamond tables plus a heated Gabriels.<br/><br/><a href="https://mainstreetbilliards.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1749 W Main St, Mesa, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.869603,33.4140749,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kolby&#x27;s Corner Pocket</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 1301 E University Dr, Tempe, AZ<br/><br/>Verified: four 9-foot Diamonds, six 9-foot Gold Crowns, five 7-foot Diamonds and one 9-foot Joy Q8.<br/><br/><a href="https://www.kolbys.net/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>1301 E University Dr, Tempe, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.9166398,33.4213504,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dozer&#x27;s Grill</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 7012 E Hampton Ave, Mesa, AZ<br/><br/>Current East Valley AZPL host.<br/><br/><a href="https://www.dozersgrill.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>7012 E Hampton Ave, Mesa, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.6794686,33.3920253,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Metro Sportz Bar</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 10111 N Metro Pkwy E, Phoenix, AZ<br/><br/>Official nightly tournaments, 2026 Phoenix Open host, and Scott Frost instruction; exact table inventory still requires field verification.<br/><br/><a href="https://metrosportzbar.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>10111 N Metro Pkwy E, Phoenix, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-112.1185444,33.572184,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jester&#x27;s Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 1515 N Gilbert Rd, Gilbert, AZ<br/><br/>Current East Valley AZPL host; exact table mix and condition require verification.<br/><br/><a href="https://azpool.com/day-of-the-week-1">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>1515 N Gilbert Rd, Gilbert, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.7877881,33.3769892,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cactus Racks</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 30845 N Cave Creek Rd, Cave Creek, AZ<br/><br/>Current AZPL session host; far-north rather than East Valley redundancy.<br/><br/><a href="https://azpool.com/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>30845 N Cave Creek Rd, Cave Creek, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.9672866,33.7990128,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill&#x27;s Modern Social</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 83 E Broadway Rd, Tempe, AZ<br/><br/>Official Diamond-table venue and current AZPL host.<br/><br/><a href="https://millsmodernsocial.com/play">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Phoenix</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>83 E Broadway Rd, Tempe, AZ</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-111.922157,33.4073782,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Las Vegas Pool Venues</name>
+  <description>Pool venues, league hosts, event campuses, and verification leads. Evidence dates vary by venue; see individual placemarks. Austin added 2026-10-24; other markets retain prior review dates.</description>
+  <Style id="serious">
+    <IconStyle><color>ff2e8b57</color><scale>1.15</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="support">
+    <IconStyle><color>ffffa500</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="event">
+    <IconStyle><color>ffff00ff</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="lead">
+    <IconStyle><color>ff999999</color><scale>1.0</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Style id="planned">
+    <IconStyle><color>ff800080</color><scale>1.05</scale>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.85</scale></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Las Vegas</name>
+    <Placemark>
+      <name>Griff&#x27;s Bar &amp; Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 3650 S Decatur Blvd, Las Vegas, NV<br/><br/>Verified: 11 nine-foot and 15 seven-foot Diamond tables; non-smoking; recurring Thu/Fri/Sun tournaments.<br/><br/><a href="https://www.griffslv.com/about">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>3650 S Decatur Blvd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.2080223,36.1376215,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Good Timez Billiards</name>
+      <styleUrl>#support</styleUrl>
+      <description><![CDATA[<b>Status:</b> League or supporting room<br/><b>Address:</b> 5740 W Charleston Blvd, Las Vegas, NV<br/><br/>Active venue and current TAP host; exact current equipment mix needs field inventory.<br/><br/><a href="https://goodtimezbilliards.wixsite.com/goodtimezbilliardslv/contact">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>support</value></Data>
+        <Data name="address"><value>5740 W Charleston Blvd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.241022,36.1597268,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangin Ballz Billiards</name>
+      <styleUrl>#serious</styleUrl>
+      <description><![CDATA[<b>Status:</b> Serious room / anchor<br/><b>Address:</b> 9155 S Las Vegas Blvd #222, Las Vegas, NV<br/><br/>Rasson-equipped room; current BCAPL/TAP host; verify current count and open 9-foot access.<br/><br/><a href="https://banginballzbilliards.com/contact/">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>serious</value></Data>
+        <Data name="address"><value>9155 S Las Vegas Blvd #222, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1763191,36.0224274,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Vegas Cue Club</name>
+      <styleUrl>#lead</styleUrl>
+      <description><![CDATA[<b>Status:</b> Lead — field verification required<br/><b>Address:</b> 953 E Sahara Ave #15A, Las Vegas, NV<br/><br/>Current 24-hour room lead; equipment, maintenance and smoke conditions require direct verification.<br/><br/><a href="https://cuesportsusa.com/billiard-clubs-and-pool-halls/nevada/las-vegas/las-vegas-cue-club">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>lead</value></Data>
+        <Data name="address"><value>953 E Sahara Ave #15A, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.142966,36.143464,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgate Las Vegas</name>
+      <styleUrl>#event</styleUrl>
+      <description><![CDATA[<b>Status:</b> Regional or major-event access<br/><b>Address:</b> 3000 Paradise Rd, Las Vegas, NV<br/><br/>2026 BCAPL/USAPL, VNEA and APA championship campus; temporary event tables are not permanent local capacity.<br/><br/><a href="https://www.playcsipool.com/2026-bcapl-world-championships.html">Primary source / lead</a><br/>Reviewed 2026-08-18. Reverify time-sensitive schedules before travel.]]></description>
+      <ExtendedData>
+        <Data name="market"><value>Las Vegas</value></Data>
+        <Data name="evidence_type"><value>event</value></Data>
+        <Data name="address"><value>3000 Paradise Rd, Las Vegas, NV</value></Data>
+      </ExtendedData>
+      <Point><coordinates>-115.1513429,36.1356551,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
